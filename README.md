@@ -11,12 +11,29 @@ A comprehensive MERN stack application for managing repair services with real-ti
 - **Real-time Notifications**: WebSocket-powered live updates and Firebase Cloud Messaging
 - **Advanced Analytics**: Interactive charts and reports with export functionality
 - **File Upload System**: Secure file handling for avatars, job attachments, and dispute evidence
+<img width="1919" height="1014" alt="Screenshot 2026-01-07 170752" src="https://github.com/user-attachments/assets/979b316f-2a1e-4ce0-8416-050921a39c8e" />
+<img width="1917" height="1031" alt="a2" src="https://github.com/user-attachments/assets/83fb92af-9a64-4e75-8f21-5ff1795a7506" />
+<img width="1919" height="1032" alt="a3" src="https://github.com/user-attachments/assets/c751624e-c2b9-4422-bbf7-20b69c9793aa" />
+<img width="1919" height="1033" alt="a4" src="https://github.com/user-attachments/assets/df8514a7-af07-4fce-b05e-c1ec603728e6" />
+<img width="1919" height="1026" alt="a5" src="https://github.com/user-attachments/assets/a1d179d4-51be-45cc-a7ad-0083355265e3" />
+<img width="1919" height="1032" alt="a6" src="https://github.com/user-attachments/assets/e9c8dfea-ec73-4468-8fdb-78d1316725f9" />
+<img width="1919" height="1031" alt="a7" src="https://github.com/user-attachments/assets/87c9e97a-ef90-498a-a302-f4bf6ab61c68" />
+<img width="1919" height="1034" alt="a8" src="https://github.com/user-attachments/assets/b44f323b-eba7-4cd0-a6ff-b8947f1e4b39" />
+
 
 ### Landing Page (Next.js)
 - **Multilingual Support**: English and Urdu translations
 - **Responsive Design**: Mobile-first approach with modern UI
 - **SEO Optimized**: Meta tags, structured data, and performance optimization
 - **Interactive Demo**: Live preview integration with admin dashboard
+
+<img width="1919" height="1032" alt="l1" src="https://github.com/user-attachments/assets/b5207060-c8b8-425b-a601-acf91692209f" />
+<img width="1919" height="1022" alt="l2" src="https://github.com/user-attachments/assets/cf1c4973-5f91-4f54-87ee-523f3df56938" />
+<img width="1919" height="1027" alt="l3" src="https://github.com/user-attachments/assets/eed4f6c0-5514-4439-824c-09342efea3c7" />
+<img width="1919" height="1022" alt="l4" src="https://github.com/user-attachments/assets/10676672-59c9-4fb8-9e9b-53532cdc9fe2" />
+<img width="1919" height="1026" alt="l5" src="https://github.com/user-attachments/assets/3784e3d5-8089-4bb6-82f8-036d4d4a0838" />
+<img width="1919" height="1030" alt="l6" src="https://github.com/user-attachments/assets/ba440a26-060b-4aee-9919-6461e74f0db3" />
+
 
 ### Backend API (Node.js + Express.js)
 - **RESTful APIs**: Complete CRUD operations for all entities
