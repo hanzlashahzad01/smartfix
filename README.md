@@ -354,4 +354,18 @@ For support and questions:
 
 ---
 
+## 🚀 Project Status
+
+SmartFix Admin is currently under active development.  
+Core dashboard structure and UI setup are completed.  
+Upcoming updates will include:
+
+- Backend API integration  
+- Role-based authentication  
+- Service request management  
+- Analytics dashboard  
+
+This project is part of my continuous learning and real-world admin panel development practice.
+
+
 **SmartFix** - Streamlining service management with modern technology.
