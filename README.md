@@ -329,7 +329,7 @@ docker-compose up -d
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-📬 Connect with Me
+## 📬 Connect with Me
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
 
 Email: hanzlashahzadhanzlashahzad@gmail.com
