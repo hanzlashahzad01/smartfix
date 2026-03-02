@@ -329,12 +329,15 @@ docker-compose up -d
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🆘 Support
+📬 Connect with Me
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
 
-For support and questions:
-- Email: support@smartfix.com
-- Documentation: [docs.smartfix.com](https://docs.smartfix.com)
-- Issues: [GitHub Issues](https://github.com/smartfix/smartfix/issues)
+Email: hanzlashahzadhanzlashahzad@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/hanzla-shahzad
+
+GitHub: https://github.com/hanzlashahzad01/hanzlashahzad01
+
 
 ## 🎯 Roadmap
 
