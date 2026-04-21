@@ -373,4 +373,4 @@ This project is part of my continuous learning and real-world admin panel develo
 
 **SmartFix** - Streamlining service management with modern technology.
 
-Made by Hanzla Shahzad 💓
+Made by Hanzla Shahzad 🔥💙
